@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0D2D3B76&center=true&width=435&lines=I+am+Full+Stack+Developer.)](https://git.io/typing-svg)
+
 # 💫 About Me:
 📫 How to reach me: Email - m.kosemenx@outlook.com<br>⚡ My hobbies: Wondering about everything that can be known.
 
